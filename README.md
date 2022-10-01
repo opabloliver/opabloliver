@@ -12,7 +12,7 @@
   <img align="center" alt="Lupin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lupin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lupin-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Lupin-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1009615164846387339/1025775273884520459/download_3.jpg">
+  <img align="right" alt="Lupin-pic" height="170" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1009615164846387339/1025775273884520459/download_3.jpg">
 </div>
   
   ##
