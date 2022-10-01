@@ -1,8 +1,8 @@
-## Oiii eu sou João Pablo, criador de conteúdo de programação e tecnologia!
+## Olá eu sou João Pablo, criador de conteúdo de programação e tecnologia!
 <div align="center">
-  <a href="https://github.com/lukeitbby">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukeitbby&show_false=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeitbby&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/opabloliver">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=opabloliver&show_icons=false=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opabloliver&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lupin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
