@@ -15,7 +15,7 @@ Tenho 18 anos, moro em Araripe/CE, estou cursando Ciência da Computação e sou
  <div align="center">
   <a href="https://github.com/opabloliver">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=opabloliver&show_icons=true&theme=highcontrast&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro&layout=compact&langs_count=7&theme=highcontrast"/>
+  
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=opabloliver&&theme=highcontrast" alt="opabloliver" /></p>
      
 </div>
@@ -28,8 +28,6 @@ Tenho 18 anos, moro em Araripe/CE, estou cursando Ciência da Computação e sou
  	<a href="https://www.twitch.tv/opabloliver" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Lupin#2734" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:opablolivers@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%230077B5?style=for-the-badge&logo=whatsapp&logoColor=green" target="_blank"></a> 
-
 
 
 ### > Technologies and Tools I use for work
