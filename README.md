@@ -5,8 +5,7 @@
 
  ## :space_invader: Hello, I'm João Pablo!
 
-I'm 18 years old, I live in Araripe/CE, I'm studying Computer Science at [Null](https://www.cesupa.br/) and I'm passionate about programming and felines! I'm a beginner in the programming universe, official bug hunter, and the more I learn and get angry, the more I love it all! :purple_heart:. Also check my [Linkedin]
-(Meu link din).
+Tenho 18 anos, moro em Araripe/CE, estou cursando Ciência da Computação e sou apaixonado por programação e felinos! Sou iniciante no universo da programação, e quanto mais aprendo e fico revoltado, mais amo isso!💜. Veja também meu [Linkedin] (Meu link din).
 
 ### > Programming languages I love to work in
 
