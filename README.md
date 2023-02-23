@@ -5,7 +5,7 @@
 
  ## :space_invader: Hello, I'm João Pablo!
 
-Tenho 18 anos, moro em Araripe/CE, estou cursando Ciência da Computação e sou apaixonado por programação e felinos! Sou iniciante no universo da programação, e quanto mais aprendo e fico revoltado, mais amo isso!💜. Veja também meu [Linkedin] .
+Tenho 18 anos, resido em Araripe/CE, estou cursando Ciência da Computação e sou apaixonado por programação e animais! Sou iniciante no universo da programação, e quanto mais aprendo fico revoltado, mais amo isso kkkkk!💜. Veja também meu [Linkedin] .
 
 ### > Programming languages I love to work in
 
