@@ -25,7 +25,7 @@ Tenho 18 anos, resido em Araripe/CE, estou cursando Ciência da Computação e s
  
   <a href="https://instagram.com/opabloliver" target="_blank"><img src="https://img.shields.io/badge/-Instagram-8e5d52?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/jo%C3%A3o-pablo-01833b249/"><img src="https://img.shields.io/badge/Linkedin-8e5d52?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a href="https://youtube/Lupin#2734" target="_blank"><img src="https://img.shields.io/badge/Youtube-8e5d52?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <a href="https://youtube/lupinchester" target="_blank"><img src="https://img.shields.io/badge/Youtube-8e5d52?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:opablolivers@gmail.com"><img src="https://img.shields.io/badge/-Gmail-8e5d52?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 <div align="left">
