@@ -9,10 +9,7 @@ Tenho 18 anos, resido em Araripe/CE, estou cursando Ciência da Computação e s
 
 ### > Programming languages I love to work in
 
- <div align="center">
-  <a href="https://github.com/opabloliver">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=opabloliver&show_icons=true&theme=highcontrast&include_all_commits=false&count_private=true"/>
-  
+ 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=opabloliver&&theme=highcontrast" alt="opabloliver" /></p>
      
 </div>
