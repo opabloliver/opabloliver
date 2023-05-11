@@ -15,24 +15,22 @@ Tenho 18 anos, resido em Araripe/CE, estou cursando Ciência da Computação e s
 
 <div align="center">  
  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=opabloliver&show_icons=true&count_private=true&hide_border=true&title_color=8e5d52&icon_color=8e5d52&text_color=c9d1d9&bg_color=0d1117" alt="opabloliver github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opabloliver&layout=compact&hide_border=true&title_color=8e5d52&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=opabloliver&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="opabloliver github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opabloliver&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8e5d52&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 <div align="center">
  
-  <a href="https://instagram.com/opabloliver" target="_blank"><img src="https://img.shields.io/badge/-Instagram-8e5d52?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/jo%C3%A3o-pablo-01833b249/"><img src="https://img.shields.io/badge/Linkedin-8e5d52?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a href="https://www.youtube.com/channel/UCeUOVMq1dg7CMZ-V1KBUoBw" target="_blank"><img src="https://img.shields.io/badge/Youtube-8e5d52?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href = "mailto:opablolivers@gmail.com"><img src="https://img.shields.io/badge/-Gmail-8e5d52?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/opabloliver" target="_blank"><img src="https://img.shields.io/badge/-Instagram-00bfbf?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/jo%C3%A3o-pablo-01833b249/"><img src="https://img.shields.io/badge/Linkedin-00bfbf?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
 <div align="left">
 <a href=></a>
 <br><br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=8E5D52&background=FFD8A800&width=435&lines=Jo%C3%A3o+Pablo)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=00bfbf&background=FFD8A800&width=435&lines=Jo%C3%A3o+Pablo)](https://git.io/typing-svg)
 
 ### > Tecnologias e ferramentas que uso para trabalhar
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -40,7 +38,6 @@ Tenho 18 anos, resido em Araripe/CE, estou cursando Ciência da Computação e s
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1046654310303412284/1052106435850420244/lupin.png">
-  
+ 
 ![Snake animation](https://github.com/RyanOlivrdev/ryanolivrdev/blob/output/github-contribution-grid-snake.svg) 
 
