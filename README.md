@@ -2,9 +2,7 @@
 
 
  ## :space_invader: Hello, I'm João Pablo!
-
-Tenho 18 anos, resido em Araripe/CE, estou cursando Ciência da Computação e sou apaixonado por programação e animais! Sou iniciante no universo da programação, e quanto mais aprendo fico revoltado, mais amo isso kkkkk!💜. Veja também meu [Linkedin].
-
+ 
 <div align="center">
 <a href=></a>
 <br><br>
