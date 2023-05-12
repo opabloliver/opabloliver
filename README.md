@@ -2,10 +2,6 @@
 
 
  ## :space_invader: Hello, I'm João Pablo!
- 
-<div align="center">
-<a href=></a>
-<br><br>
 
 
 <!--![Contribution](https://activity-graph.herokuapp.com/graph?username=opabloliver&theme=gotham&hide_border=true&area=true)-->
@@ -13,22 +9,22 @@
 
 <div align="center">  
  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=opabloliver&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="opabloliver github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opabloliver&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=opabloliver&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="opabloliver github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opabloliver&layout=compact&hide_border=true&title_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
 
 <div align="center">
  
-  <a href="https://instagram.com/opabloliver" target="_blank"><img src="https://img.shields.io/badge/-Instagram-00bfbf?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/jo%C3%A3o-pablo-01833b249/"><img src="https://img.shields.io/badge/Linkedin-00bfbf?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/opabloliver" target="_blank"><img src="https://img.shields.io/badge/-Instagram-00FFFF?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/jo%C3%A3o-pablo-01833b249/"><img src="https://img.shields.io/badge/Linkedin-00FFFF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
 <div align="left">
 <a href=></a>
 <br><br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=00bfbf&background=FFD8A800&width=435&lines=Jo%C3%A3o+Pablo)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=00FFFF&background=FFD8A800&width=435&lines=Jo%C3%A3o+Pablo)](https://git.io/typing-svg)
 
 ### > Tecnologias e ferramentas que uso para trabalhar
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
